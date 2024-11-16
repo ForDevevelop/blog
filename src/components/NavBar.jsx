@@ -10,13 +10,13 @@ function NavBar() {
           <div>
             <ul className="flex items-center">
               <div className="px-24">
-                <li>Categories</li>
+                <li><a href='#'>Concepts</a></li>
               </div>
               <div className="px-24">
-                <li>Contact Us</li>
+                <li><a href='#'>Contact Us</a></li>
               </div>
               <div className="px-24">
-                <li>About</li>
+              <li><a href='#'>About</a></li>
               </div>
               
             </ul>
