@@ -11,7 +11,7 @@ function NavBar() {
             <button
               id="dropdownDefaultButton"
               data-dropdown-toggle="dropdown"
-              className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-blue-300 font-medium rounded-lg text-base p-4 w-28 ml-8 mr-8 text-center inline-flex items-center justify-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+              className="text-white bg-pink-700 hover:bg-pink-800 focus:ring-pink-300 font-medium rounded-lg text-base p-4 w-28 ml-8 mr-8 text-center inline-flex items-center justify-center dark:bg-pink-600 dark:hover:bg-pink-700 dark:focus:ring-pink-800"
               type="button"
             >
               Concept
@@ -72,14 +72,14 @@ function NavBar() {
         </ul>
       </div> 
       <div className='p-4'>
-        <button className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-blue-300 font-medium rounded-lg text-base 
-      p-4 w-28 ml-8 mr-8  text-center inline-flex items-center justify-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800" type="button">
+        <button className="text-white bg-pink-700 hover:bg-pink-800 focus:ring-pink-300 font-medium rounded-lg text-base 
+      p-4 w-28 ml-8 mr-8  text-center inline-flex items-center justify-center dark:bg-pink-600 dark:hover:bg-pink-700 dark:focus:ring-pink-800" type="button">
           Contact Us
         </button>
       </div>
       <div className='p-4'>
         <button
-          className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-blue-300 font-medium rounded-lg text-base p-4 w-28 ml-8 mr-8 text-center inline-flex items-center justify-center dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+          className="text-white bg-pink-700 hover:bg-pink-800 focus:ring-pink-300 font-medium rounded-lg text-base p-4 w-28 ml-8 mr-8 text-center inline-flex items-center justify-center dark:bg-pink-600 dark:hover:bg-pink-700 dark:focus:ring-pink-800"
           type="button"
         >
           About
